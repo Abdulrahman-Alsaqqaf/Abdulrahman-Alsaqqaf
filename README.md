@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Abdulrahman Alsaqqaf - Data Analyst & Data Engineer">
+</div>
  <div align="center">
 
 # Abdulrahman Alsaqqaf
