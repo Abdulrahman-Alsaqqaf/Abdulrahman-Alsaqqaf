@@ -110,7 +110,9 @@ An academic project exploring data-related techniques and analysis.
 
 <div align="center">
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Abdulrahman-Alsaqqaf&show_icons=true&theme=github_dark&hide_border=true&title_color=37B7C3&icon_color=088395&text_color=EBF4F6&bg_color=071952" />
+  <img width="49%" src="
+https://github-stats-extended.vercel.app/api?username=Abdulrahman-Alsaqqaf&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&title_color=37B7C3&icon_color=088395&text_color=EBF4F6&bg_color=071952
+" />
 
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdulrahman-Alsaqqaf&layout=compact&theme=github_dark&hide_border=true&title_color=37B7C3&text_color=EBF4F6&bg_color=071952" />
 
