@@ -31,13 +31,16 @@ My interests focus on:
 
 I enjoy working with real-world datasets, solving data problems, and continuously improving my technical skills through practical projects.
 
+
 ## 🎯 Current Focus
 
-- Building and improving end-to-end data pipelines.
-- Developing practical Data Analytics projects.
-- Exploring Apache Spark and PySpark.
-- Improving SQL and database engineering skills.
-- Learning more about Big Data technologies.
+- Designing and developing scalable ETL/ELT data pipelines.
+- Building reliable data workflows for data integration and transformation.
+- Performing data cleaning, processing, and quality validation.
+- Developing interactive dashboards and business intelligence solutions.
+- Working with Python, SQL, Apache Spark, and PySpark for data processing.
+- Transforming complex datasets into actionable business insights.
+
 
 
 ## 🛠️ Tech Stack
