@@ -5,7 +5,7 @@
 
 # Abdulrahman Alsaqqaf
 
-### Data Science Student | Data Analytics | Data Engineering
+### Data Analyst | Data Engineer | Data Science & Business Intelligence
 
 Building data-driven solutions through Python, analytics, and scalable data systems.
 
