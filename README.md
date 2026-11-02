@@ -117,11 +117,26 @@ An academic project exploring data-related techniques and analysis.
 </div>
 
 
+
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating, and working on meaningful data projects.
+I'm open to professional networking, collaboration, and opportunities in Data Analytics, Data Engineering, and Business Intelligence.
 
-- GitHub: [@Abdulrahman-Alsaqqaf](https://github.com/Abdulrahman-Alsaqqaf)
+<p align="center">
+  <a href="https://github.com/Abdulrahman-Alsaqqaf">
+    <img src="https://img.shields.io/badge/GitHub-071952?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdulraman-alsaqqaf">
+    <img src="https://img.shields.io/badge/LinkedIn-088395?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>"Turning Data into Insights, and Insights into Impact."</strong>
+</p>
+
 
 ---
 
