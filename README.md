@@ -29,7 +29,7 @@ My interests focus on:
 - 🤖 Machine Learning and Predictive Analytics
 - 📈 Business Intelligence and Reporting
 
-I enjoy working with real-world datasets, solving data problems, and continuously improving my technical skills through practical projects.
+I enjoy transforming complex datasets into meaningful insights, building efficient data solutions, and solving real-world business challenges through data.
 
 
 ## 🎯 Current Focus
