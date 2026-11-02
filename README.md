@@ -17,7 +17,9 @@ Building data-driven solutions through Python, analytics, and scalable data syst
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Abdulrahman Alsaqqaf**, a fourth-level Data Science student passionate about transforming raw data into meaningful insights and building data-driven solutions.
+I'm a Data Analyst and Data Engineer passionate about transforming raw data into meaningful insights and building scalable data solutions.
+
+My work focuses on data analytics, data engineering, business intelligence, and developing data-driven solutions using Python, SQL, Power BI, and modern data technologies.
 
 My interests focus on:
 
