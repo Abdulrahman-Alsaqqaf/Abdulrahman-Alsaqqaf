@@ -134,7 +134,3 @@ I'm open to professional networking, collaboration, and opportunities in Data An
 <div align="center">
 
 **"Turning Data into Insights, and Insights into Impact."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman-Alsaqqaf&color=088395&style=flat-square)
-
-</div>
