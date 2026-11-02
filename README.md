@@ -9,7 +9,6 @@
 
 Building data-driven solutions through Python, analytics, and scalable data systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-071952?style=for-the-badge&logo=github&logoColor=37B7C3)](https://github.com/Abdulrahman-Alsaqqaf)
 
 </div>
 
@@ -40,35 +39,39 @@ I enjoy working with real-world datasets, solving data problems, and continuousl
 - Improving SQL and database engineering skills.
 - Learning more about Big Data technologies.
 
+
 ## 🛠️ Tech Stack
 
-**Programming & Data Analysis**
+### 📊 Data Analytics & Business Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-071952?style=flat-square&logo=python&logoColor=37B7C3)
-![Pandas](https://img.shields.io/badge/Pandas-071952?style=flat-square&logo=pandas&logoColor=37B7C3)
-![NumPy](https://img.shields.io/badge/NumPy-071952?style=flat-square&logo=numpy&logoColor=37B7C3)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-071952?style=flat-square&logo=plotly&logoColor=37B7C3)
-![Seaborn](https://img.shields.io/badge/Seaborn-071952?style=flat-square&logoColor=37B7C3)
+### ⚙️ Data Engineering & Big Data
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
-**Databases & Data Engineering**
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-071952?style=flat-square&logo=postgresql&logoColor=37B7C3)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-071952?style=flat-square&logo=postgresql&logoColor=37B7C3)
-![MongoDB](https://img.shields.io/badge/MongoDB-071952?style=flat-square&logo=mongodb&logoColor=37B7C3)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-071952?style=flat-square&logo=apachespark&logoColor=37B7C3)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-071952?style=flat-square&logo=apachekafka&logoColor=37B7C3)
+### 💻 Programming & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Business Intelligence & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-071952?style=flat-square&logo=powerbi&logoColor=37B7C3)
-![Excel](https://img.shields.io/badge/Excel-071952?style=flat-square&logo=microsoftexcel&logoColor=37B7C3)
-
-**Tools & Development**
-
-![Git](https://img.shields.io/badge/Git-071952?style=flat-square&logo=git&logoColor=37B7C3)
-![GitHub](https://img.shields.io/badge/GitHub-071952?style=flat-square&logo=github&logoColor=37B7C3)
-![VS Code](https://img.shields.io/badge/VS_Code-071952?style=flat-square&logo=visualstudiocode&logoColor=37B7C3)
-![Jupyter](https://img.shields.io/badge/Jupyter-071952?style=flat-square&logo=jupyter&logoColor=37B7C3)
 
 ## 🚀 Featured Projects
 
