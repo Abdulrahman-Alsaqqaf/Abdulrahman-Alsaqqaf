@@ -131,15 +131,6 @@ I'm open to professional networking, collaboration, and opportunities in Data An
   </a>
 </p>
 
----
-
-<p align="center">
-  <strong>"Turning Data into Insights, and Insights into Impact."</strong>
-</p>
-
-
----
-
 <div align="center">
 
 **"Turning Data into Insights, and Insights into Impact."**
